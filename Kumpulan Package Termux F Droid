@@ -1,0 +1,55 @@
+termux-setup-storage
+
+apt upgrade && apt update -y
+
+pkg update && pkg upgrade -y 
+
+pkg install python
+
+pkg install python2
+
+pkg intsall python3 
+
+pip install --upgrade pip
+
+‌pkg install imagemagick
+
+pkg install tesseract
+
+pkg install termux-api
+
+pkg intsall bash
+
+pkg install nano
+
+pkg install libjpeg-turbo
+
+pkg install nano
+
+pkg install php
+
+pkg install git
+
+pkg install wget
+
+pkg install figlet
+
+pkg install ruby
+
+pkg install lolcat
+
+LDFLAGS="-L/system/lib64/" CFLAGS="-I/data/data/com.termux/files/usr/include/"
+
+pip install pillow
+
+pip install bs4
+
+pip install requests
+
+pip install keyboard
+
+pip install pystyle
+
+pip install cursor
+
+pip install wheel
